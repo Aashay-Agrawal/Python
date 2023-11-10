@@ -6,7 +6,7 @@
 
 # print(name+' likes '+color)
 
-weight = input('what is your weight? ( in pounds )')
-conversion = int(weight) * 0.45
+# weight = input('what is your weight? ( in pounds )')
+# conversion = int(weight) * 0.45
 
-print(conversion)
+# print(conversion)
