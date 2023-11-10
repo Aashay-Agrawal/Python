@@ -1,7 +1,12 @@
 # a = 5
 # print(a)
 
-name = input("what is your name")
-color = input('what is your fav color')
+# name = input("what is your name")
+# color = input('what is your fav color')
 
-print(name+' likes '+color)
+# print(name+' likes '+color)
+
+weight = input('what is your weight? ( in pounds )')
+conversion = int(weight) * 0.45
+
+print(conversion)
