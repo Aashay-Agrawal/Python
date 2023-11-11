@@ -15,8 +15,24 @@
 # x = x + 6
 # print(x)
 
-a = True
+# a = False
 
-if a:
-  print("ok")
-print("idk")
+# if a:
+#   print("ok")
+# else:
+#   print("wtf")
+# print("idk")
+
+# weight = int(input('weight: '))
+# unit = input('(L)bs or (K)g: ')
+
+# if unit.upper() == "L":
+#   converted = weight * 0.45
+#   print(f"You are {converted} kilos")
+
+# else:
+#   converted = weight / 0.45
+#   print(f"You are {converted}")
+
+
+  
