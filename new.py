@@ -10,3 +10,13 @@
 # conversion = int(weight) * 0.45
 
 # print(conversion)
+
+# x = 4
+# x = x + 6
+# print(x)
+
+a = True
+
+if a:
+  print("ok")
+print("idk")
